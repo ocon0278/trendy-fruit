@@ -12,7 +12,6 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  font-family: "PT Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -24,19 +23,23 @@ html {
   width: 100%;
 }
 
-.banner {
+.watermelon {
   position: relative;
   overflow: hidden;
   max-height: 24em;
-  text-align: center;
+  background-color: #e97065;
 }
 
-.banner-content {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  width: 100%;
-  color: white;
-  text-align: center;
+.starfruit {
+  position: relative;
+  overflow: hidden;
+  max-height: 24em;
+  background-color: #fbd25e;
+}
+
+.persimmon {
+  position: relative;
+  overflow: hidden;
+  max-height: 24em;
+  background-color: #e86033;
 }
