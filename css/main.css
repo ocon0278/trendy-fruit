@@ -18,28 +18,6 @@ html {
   box-sizing: inherit;
 }
 
-.img-flex {
-  display: block;
-  width: 100%;
-}
-
-.watermelon {
-  position: relative;
-  overflow: hidden;
-  max-height: 24em;
-  background-color: #e97065;
-}
-
-.starfruit {
-  position: relative;
-  overflow: hidden;
-  max-height: 24em;
-  background-color: #fbd25e;
-}
-
-.persimmon {
-  position: relative;
-  overflow: hidden;
-  max-height: 24em;
-  background-color: #e86033;
+body {
+  margin: 0;
 }
