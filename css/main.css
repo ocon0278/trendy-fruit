@@ -21,3 +21,31 @@ html {
 body {
   margin: 0;
 }
+
+.watermelon {
+  background-color: #e97065;
+}
+
+.starfruit {
+  background-color: #fbd25e;
+}
+
+.persimmon {
+  background-color: #e86033;
+}
+
+.content {
+  font-family: "Open Sans", sans-serif;
+}
+
+.title1 {
+  font-family: "Rammetto One", sans-serif;
+}
+
+.title2 {
+  font-family: "Gravitas One", serif;
+}
+
+.title3 {
+  font-family: Comfortaa, sans-serif;
+}
